@@ -1,0 +1,67 @@
+
+body {
+  margin: 0;
+
+  /* BEGIN (write your solution here) */
+  font-family: sans-serif;
+  font-size: 18px;
+  line-height: 1.5;
+  color: #333;
+  /* END */
+}
+
+/* BEGIN (write your solution here) */
+h1 {
+  /* BEGIN (write your solution here) */
+  position: absolute;
+  top: 50px;
+  bottom: 10px;
+  font-size: 60px;
+  text-align: center;
+  /* END */
+
+  border-bottom: 2px solid #e3e3e3;
+}
+
+/* END */
+
+h2 {
+  /* BEGIN (write your solution here) */
+  position: absolute;
+  top: 0px;
+  bottom: 30px;
+  font-size: 60px;
+  text-align: center;
+
+  /* END */
+
+  border-bottom: 2px solid #e3e3e3;
+}
+
+main {
+  width: 900px;
+  margin: auto;
+}
+
+/* <main>
+    <h1>Emmet</h1>
+    <ul>
+        <li>Быстрый</li>
+        <li>Удобный</li>
+        <li>Нескучные обои</li>
+    </ul>
+    <p>Emmet помогает мне писать вёрстку быстрее</p>
+    <p>Emmet помогает мне писать вёрстку быстрее</p>
+    <p>Emmet помогает мне писать вёрстку быстрее</p>
+    <p>Emmet помогает мне писать вёрстку быстрее</p>
+    <p>Emmet помогает мне писать вёрстку быстрее</p>
+    <p>Emmet помогает мне писать вёрстку быстрее</p>
+    <p>Emmet помогает мне писать вёрстку быстрее</p>
+    <p>Emmet помогает мне писать вёрстку быстрее</p>
+    <p>Emmet помогает мне писать вёрстку быстрее</p>
+    <p>Emmet помогает мне писать вёрстку быстрее</p>
+</main> */
+
+
+
+
